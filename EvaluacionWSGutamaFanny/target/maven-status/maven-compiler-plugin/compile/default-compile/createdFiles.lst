@@ -1,0 +1,14 @@
+ec\edu\ups\p2\services\Ingresarrest.class
+ec\edu\ups\p2\controler\ProveedorBEAN.class
+ec\edu\ups\p2\on\CarroOnRemoto.class
+ec\edu\ups\p2\dao\CarroDAO.class
+ec\edu\ups\p2\modelo\Producto.class
+ec\edu\ups\p2\dao\PersonaDAO.class
+ec\edu\ups\p2\services\Ingresar.class
+ec\edu\ups\p2\modelo\Persona.class
+ec\edu\ups\p2\modelo\Carro.class
+ec\edu\ups\p2\controler\ProductoBEAN.class
+ec\edu\ups\p2\on\CarroON.class
+ec\edu\ups\p2\controler\Inventario.class
+ec\edu\ups\p2\dao\ProductoDAO.class
+ec\edu\ups\p2\services\RestApplication.class
